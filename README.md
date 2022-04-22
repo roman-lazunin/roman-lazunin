@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @roman-lazunin
+- 👀 I’m interested in software testing
+- 🌱 I’m currently learning to become a testing engineer
+- 💞️ I’m looking to collaborate on your personal or commercial projects
+- 📫 You can reach me on lazunin.roman@gmail.com
