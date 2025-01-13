@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @roman-lazunin
-- 👀 I’m interested in software testing
-- 🌱 I’m currently learning to become a testing engineer
+- 👀 Love solving problems and making life simpler.
+- 🌱 Knowledge in Frontend and Python.
 - 💞️ I’m looking to collaborate on your personal or commercial projects
+- 💻 Former Klarna Intern
 - 📫 You can reach me on lazunin.roman@gmail.com
+
+- Let’s collaborate and create something awesome! 😊
